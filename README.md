@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Eric2022-analyst
-- 👀 I’m interested in data cleaning, analysis and visualization
-- 🌱 I’m currently learning python for data analysis
-- 💞️ I’m looking to collaborate on datasets and dashboards and presentation
-- 📫 How to reach me ---Twitter @eric_shiks ---Linkedin 
+- 👋 Hi, I’m @Eric
+- 👀 I’m interested in data analysis, Business Intelligence, SQL,R and Python
+- 💞️ I’m looking to collaborate on Python for data analysis, SQL, datasets and dashboards and presentation
+- 📫 How to reach me ---Twitter @eric_shiks ---Linkedin...https://www.linkedin.com/in/erick-s-lumula-1102a8103/
 
 <!---
 Eric2022-analyst/Eric2022-analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
